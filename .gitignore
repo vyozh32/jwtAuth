@@ -1,0 +1,16 @@
+node_modules
+*.log
+.idea/
+.vscode/
+.DS_Store
+frontend/dist
+log/*.log
+log/*.html
+log/*.csv
+frontend/landing/dist
+frontend/rocket-landing/public
+.history/
+.nosync
+.swp
+.nyc_output
+coverage
